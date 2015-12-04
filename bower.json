@@ -1,0 +1,23 @@
+{
+  "name": "bow-n-grunt",
+  "homepage": "https://github.com/show0017/bow-n-grunt",
+  "authors": [
+    "Wael Showair <show0017@algonquinlive.com>"
+  ],
+  "description": "assingment for hybrid",
+  "main": "main.js",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "4.0.0-alpha",
+    "font-awesome": "~4.5.0"
+  }
+}
